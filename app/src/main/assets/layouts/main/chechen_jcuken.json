@@ -1,0 +1,99 @@
+[
+  [
+    {"label": "й"},
+    { "$": "shift_state_selector",
+      "default": {"label": "ц", "popup": {"relevant": [{"label": "цӏ"}]}},
+      "shifted": {"label": "Ц", "popup": {"relevant": [{"label": "Цӏ"}]}, "labelFlags": 65536},
+      "capsLock": {"label": "Ц", "popup": {"relevant": [{"label": "ЦӀ"}]}, "labelFlags": 65536}
+    },
+    { "$": "shift_state_selector",
+      "default": {"label": "у", "popup": {"relevant": [{"label": "уь"}]}},
+      "shifted": {"label": "У", "popup": {"relevant": [{"label": "Уь"}]}, "labelFlags": 65536},
+      "capsLock": {"label": "У", "popup": {"relevant": [{"label": "УЬ"}]}, "labelFlags": 65536}
+    },
+    { "$": "shift_state_selector",
+      "default": {"label": "к", "popup": {"relevant": [{"label": "кх"}, {"label": "къ"}, {"label": "кӏ"}]}},
+      "shifted": {"label": "К", "popup": {"relevant": [{"label": "Кх"}, {"label": "Къ"}, {"label": "Кӏ"}]}, "labelFlags": 65536},
+      "capsLock": {"label": "К", "popup": {"relevant": [{"label": "КХ"}, {"label": "КЪ"}, {"label": "КӀ"}]}, "labelFlags": 65536}
+    },
+    { "$": "shift_state_selector",
+      "default": {"label": "е", "popup": {"relevant": [{"label": "ё"}]}},
+      "shifted": {"label": "Е", "popup": {"relevant": [{"label": "Ё"}]}, "labelFlags": 65536},
+      "capsLock": {"label": "Е", "popup": {"relevant": [{"label": "Ё"}]}, "labelFlags": 65536}
+    },
+    {"label": "н"},
+    { "$": "shift_state_selector",
+      "default": {"label": "г", "popup": {"relevant": [{"label": "гӏ"}]}},
+      "shifted": {"label": "Г", "popup": {"relevant": [{"label": "Гӏ"}]}, "labelFlags": 65536},
+      "capsLock": {"label": "Г", "popup": {"relevant": [{"label": "ГӀ"}]}, "labelFlags": 65536}
+    },
+    {"label": "ш"},
+    { "$": "shift_state_selector",
+      "default": {"label": "ӏ", "popup": {"relevant": [{"label": "щ"}]}},
+      "shifted": {"label": "Ӏ", "popup": {"relevant": [{"label": "Щ"}]}, "labelFlags": 65536},
+      "capsLock": {"label": "Ӏ", "popup": {"relevant": [{"label": "Щ"}]}, "labelFlags": 65536}
+    },
+    {"label": "з"},
+    { "$": "shift_state_selector",
+      "default": {"label": "х", "popup": {"relevant": [{"label": "хь"}, {"label": "хӏ"}]}},
+      "shifted": {"label": "Х", "popup": {"relevant": [{"label": "Хь"}, {"label": "Хӏ"}]}, "labelFlags": 65536},
+      "capsLock": {"label": "Х", "popup": {"relevant": [{"label": "ХЬ"}, {"label": "ХӀ"}]}, "labelFlags": 65536}
+    }
+  ],
+  [
+    {"label": "ф"},
+    {"label": "ы"},
+    {"label": "в"},
+    { "$": "shift_state_selector",
+      "default": {"label": "а", "popup": {"relevant": [{"label": "аь"}]}},
+      "shifted": {"label": "А", "popup": {"relevant": [{"label": "Аь"}]}, "labelFlags": 65536},
+      "capsLock": {"label": "А", "popup": {"relevant": [{"label": "АЬ"}]}, "labelFlags": 65536}
+    },
+    { "$": "shift_state_selector",
+      "default": {"label": "п", "popup": {"relevant": [{"label": "пӏ"}]}},
+      "shifted": {"label": "П", "popup": {"relevant": [{"label": "Пӏ"}]}, "labelFlags": 65536},
+      "capsLock": {"label": "П", "popup": {"relevant": [{"label": "ПӀ"}]}, "labelFlags": 65536}
+    },
+    {"label": "р"},
+    { "$": "shift_state_selector",
+      "default": {"label": "о", "popup": {"relevant": [{"label": "оь"}]}},
+      "shifted": {"label": "О", "popup": {"relevant": [{"label": "Оь"}]}, "labelFlags": 65536},
+      "capsLock": {"label": "О", "popup": {"relevant": [{"label": "ОЬ"}]}, "labelFlags": 65536}
+    },
+    {"label": "л"},
+    {"label": "д"},
+    {"label": "ж"},
+    {"label": "э"}
+  ],
+  [
+    { "$": "shift_state_selector",
+      "default": {"label": "я", "popup": {"relevant": [{"label": "яь"}]}},
+      "shifted": {"label": "Я", "popup": {"relevant": [{"label": "Яь"}]}, "labelFlags": 65536},
+      "capsLock": {"label": "Я", "popup": {"relevant": [{"label": "ЯЬ"}]}, "labelFlags": 65536}
+    },
+    { "$": "shift_state_selector",
+      "default": {"label": "ч", "popup": {"relevant": [{"label": "чӏ"}]}},
+      "shifted": {"label": "Ч", "popup": {"relevant": [{"label": "Чӏ"}]}, "labelFlags": 65536},
+      "capsLock": {"label": "Ч", "popup": {"relevant": [{"label": "ЧӀ"}]}, "labelFlags": 65536}
+    },
+    {"label": "с"},
+    {"label": "м"},
+    {"label": "и"},
+    { "$": "shift_state_selector",
+      "default": {"label": "т", "popup": {"relevant": [{"label": "тӏ"}]}},
+      "shifted": {"label": "Т", "popup": {"relevant": [{"label": "Тӏ"}]}, "labelFlags": 65536},
+      "capsLock": {"label": "Т", "popup": {"relevant": [{"label": "ТӀ"}]}, "labelFlags": 65536}
+    },
+    { "$": "shift_state_selector",
+      "default": {"label": "ь", "popup": {"relevant": [{"label": "ъ"}]}},
+      "shifted": {"label": "Ь", "popup": {"relevant": [{"label": "Ъ"}]}, "labelFlags": 65536},
+      "capsLock": {"label": "Ь", "popup": {"relevant": [{"label": "Ъ"}]}, "labelFlags": 65536}
+    },
+    {"label": "б"},
+    { "$": "shift_state_selector",
+      "default": {"label": "ю", "popup": {"relevant": [{"label": "юь"}]}},
+      "shifted": {"label": "Ю", "popup": {"relevant": [{"label": "Юь"}]}, "labelFlags": 65536},
+      "capsLock": {"label": "Ю", "popup": {"relevant": [{"label": "ЮЬ"}]}, "labelFlags": 65536}
+    }
+  ]
+]

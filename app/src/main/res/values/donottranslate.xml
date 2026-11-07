@@ -63,6 +63,7 @@
 
     <!-- Description for Arabic (PC) subtype. -->
     <string name="subtype_arabic_pc" translatable="false">%s (PC)</string>
+    <string name="subtype_chechen_jcuken" translatable="false">%s (ЙЦУКЕН)</string>
 
     <!-- Description for Arabic (Hija'i) subtype. -->
     <string name="subtype_arabic_hijai" translatable="false">%s (Hija\'i)</string>
